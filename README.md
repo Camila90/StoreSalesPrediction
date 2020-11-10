@@ -1,7 +1,9 @@
-# StoreSalesPrediction
-Projeto Rossmann - Desenvolvido no curso "Data Science em Produção"
+# <p align="center"> <b> ROSSMANN STORE SALES PREDICTION  </b> 
 
-Previsão de vendas nas farmácias nas próximas 6 semanas. 
-Esta demanda veio do CFO devido à necessidade de investimento de parte da receita de cada loja em reformas.
+## Sobre o projeto</br> </br> 
+
+Projeto desenvolvido durante o curso "Data Science em Produção"
+
+Neste projeto foi utilizado o conjunto de dados da competição Kaggle Rossmann Sale Prediction, que possui informações de vendas diárias para 1115 lojas Rossmann diferentes na Alemanha, durante o período de 2,5 anos. O objetivo do projeto é prever as vendas diárias de cada loja.
 
 
